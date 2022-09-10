@@ -1,8 +1,6 @@
 # Movie-App
-
-MovieWEb
-A web app to eneble users search their favourite movie content.
-
+## AUTHORS
+- Mugendi Muthimi
 
 ## LIVE LINK
 [Movie-App Live Link](https://manywelemike.github.io/Movie-App/)
